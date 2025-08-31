@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=D1F6FFo&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&theme=default&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=D1F6FFo&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&theme=default&animation=ScaleIn"/>
 
 <div align="center">
   <h3>🖥️ Languages</h3>
