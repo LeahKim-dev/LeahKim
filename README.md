@@ -45,9 +45,3 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=LeahKim-dev&theme=dark&hide_border=true" />
 </div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LeahKim-dev&icon=0&color=12" />
-  </a>
-</div>
